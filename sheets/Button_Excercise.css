@@ -1,0 +1,141 @@
+    .uber-button{ 
+        
+        background-color: black;
+        color : white;
+        border:none ;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 16px;
+        padding-left:16px;
+        margin-right : 8px;
+        transition: opacity 0.15s;
+        vertical-align: top;
+        }
+
+    .uber-button:hover{
+
+        opacity: 0.8;
+    }
+
+    .addtocart-button{
+
+        background-color : rgb(255, 216, 20);
+        border : none;
+        height : 40px;
+        width : 200;
+        border-radius : 20px;
+        font-weight : bold;
+        margin-right : 8px;
+        transition : background-color 0.15s;
+        
+    }
+
+    .addtocart-button:hover{
+
+        background-color: rgb(151, 127, 8);
+    }
+
+    .signup-button{
+        background-color: rgb(46,164,79);
+        color : white;
+        border : none;
+        height : 40px;
+        width : 90px;
+        border-radius: 8px;
+        font-weight: bold;
+        font-size : 14px
+    }
+
+    .signup-button:hover{
+
+        box-shadow: 2px 2px 5px rgba(46,164,79,0.8);
+    }
+
+    .getstarted-button{
+        background-color: rgb(118, 68, 194);
+        color : white;
+        border: none;
+        height: 40px;
+        width : 100px;
+        border-radius: 4px;
+        margin-top : 20px;
+        margin-right :8px;
+        font-weight: bold;
+        transition: background-color 0.15;
+        
+    }
+
+    .getstarted-button:hover{
+
+        background-color: rgb(97, 44, 175);
+    }
+
+    .Download-button{
+
+        background-color: white;
+        border-color: rgb(108,117,125);
+        border-style : solid;
+        border-width: 1px;
+        border-radius: 4px;
+        height : 40px;
+        width : 100px;
+        font-weight:bold;
+        color: rgb(108,117,125);
+        transition: background-color 0.15 , color 0.15;
+        
+    }
+
+    .Download-button:hover{
+
+        background-color:rgb(108,117,125);
+        color: white;
+    }
+
+    .linked-apply{
+        background-color: rgb(10, 90, 194);
+        color : white;
+        font-weight: bold;
+        font-size: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        border:none;
+        border-radius: 20px;
+        margin-top: 20px;
+        margin-right: 8px;
+        transition : background-color 0.15s;
+        vertical-align: top;
+    }
+
+
+    .linked-apply:hover{
+
+        background-color:rgb(8, 72, 156);
+
+    }
+
+    .linked-save{
+
+        background-color: white;
+        color : rgb(10, 90, 194);
+        border-style: solid;
+        border-color: rgb(10,90,194);
+        border-radius: 20px;
+        border-width: 1.5px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        font-weight: bold;
+        font-size : 15px;
+        margin-top: 20px;
+        margin-right: 8px;
+        vertical-align: top;
+    }
+
+    .linked-save:hover{
+
+        border-width: 2px;
+        background-color:rgb(10, 90, 194,0.2) ;
+    }

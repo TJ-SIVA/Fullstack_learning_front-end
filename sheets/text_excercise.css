@@ -1,0 +1,81 @@
+    .title{
+        font-family: Arial;
+        font-size : 30px;
+        font-weight: bold;
+        margin-bottom: 8px;
+    }
+
+    .day{
+
+        color: red;
+        font-family: Arial;
+        font-size: 15px;
+        font-style: italic;
+        margin-top: 5px;
+        
+    }
+
+    .shopping{
+
+        font-family: arial;
+        font-size: 35px;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .arial-body{
+        font-family: arial;
+        font-size :20px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .arial-link{
+        color: rgb(40, 108, 226);
+        font-family: arial;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .ver-title{
+
+        font-family: Verdana;
+        font-size: 25px;
+        font-weight: bold;
+        margin-bottom: 3px;
+
+    }
+
+    .ver-sub{
+        font-family: verdana;
+        font-size: 18px;
+        color: dimgray;
+        margin-top: 0px;
+        
+    }
+
+    .ver-body{
+        font-family: verdana;
+        width: 275px;
+        font-size: 15px;
+    }
+
+    .get-button{
+        font: verdana;
+        color: white;
+        background-color: green;
+        border: none;
+        border-radius: 8px;
+        padding: 10px 14px;
+
+    }
+
+    .font{
+
+        font-family: Tahoma;
+        font-size: 30px;
+        font-weight: bold;
+
+    }

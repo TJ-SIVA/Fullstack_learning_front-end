@@ -1,0 +1,80 @@
+
+    p{
+        font-family: arial;
+        margin-top: 0px;
+        margin-bottom: 0px;
+
+    }
+    .new-text{
+        
+        font-size: 15px;
+        color: orange;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 8px;
+        font-weight: bold ;
+    }
+
+    .Product-name{
+
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 10px;
+    
+    }
+
+    .product-catch{
+
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 10px;
+
+    }
+
+    .product-price{
+
+        font-size: 15px;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .buy-button{
+        color: white;
+        font-weight: bold;
+
+        background-color: rgb(48, 48, 243);
+        border: none;
+        padding: 10px 16px;
+        border-radius: 20px;
+        display:block; 
+        margin:0 auto;
+        margin-bottom: 50px;
+    }
+
+    .codecamp-title{
+
+        font-size: 15px;
+        font-weight: bold;
+        margin-bottom: 10px;
+
+
+    }
+
+    .code-span-title{
+
+        color: rgb(123, 121, 118);
+        font-weight: normal;
+    }
+
+    .code-body{
+
+        width: 500px;
+        margin-bottom: 50px;
+    }
+
+    .code-span-body{
+
+        color: rgb(63, 140, 228);
+        width: auto;
+    }
