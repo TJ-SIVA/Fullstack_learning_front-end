@@ -10,6 +10,37 @@
     <body>
         <img class="image" src="Image/zenitsu-agatsuma-3840x2160-24472.png" alt="Zenistu">
 
+        <form action="https://httpbin.org/get" method="get">
+        <div class="form">
+            <label for="firstname">First Name</label>
+            <input type="text" id="firstname" name="firstname" placeholder="Jane" autofocus required>
+        </div>
+
+        <div class="form">
+            <label for="lastname">Last Name</label>
+            <input type="text" id="lastname" name="lastname" placeholder="gery" required>
+        </div>
+
+        <div class="form">
+            <label for="email"> Email </label>
+            <input type="text" id="email" name="email" placeholder="janegery@gmail.com" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
+        </div>
+
+        <div>
+            <label for="message"></label>
+            <textarea name="message" id="message" cols="40" rows="10" placeholder="write something"></textarea>
+        </div>
+
+        <div>
+            <label for="number">batch number</label>
+            <input type="number" id="number" name="number" min="10" max="50" step="10" value="30">
+        </div>
+        <button type="submit"> submit</button>
+        </form>
+
 
     </body>
 </html>
+
+
+
