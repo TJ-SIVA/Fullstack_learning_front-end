@@ -1,0 +1,23 @@
+.text-box{
+
+    display: block;
+    margin-bottom: 5px;
+}
+
+.yes-btn{
+    
+    color: white;
+    background-color: rgb(163, 9, 143);
+    font: arial;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 10px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.text{
+    display: inline-block;
+    width: 250px;
+    vertical-align: middle;
+}
