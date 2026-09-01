@@ -1,0 +1,60 @@
+.squre{
+    width:200px ;
+    height: 200px;
+    background-color: red;
+    display: inline-block;
+    margin: 15px;
+}
+
+.circle{
+
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: green;
+    display: inline-block;
+}
+
+.border{
+    border: solid;
+    padding: 10px;
+    width: 300px;
+    border-color: grey;
+    border-width: 2px;
+}
+
+.btn{
+
+    color: white;
+    background-color: burlywood;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 10px;
+}
+
+.youtube{
+    background-color: rgb(56, 54, 54);
+
+    height: 150px;
+    width: 400px;
+
+}
+
+.title{
+   color: white;
+   font-family: arial;
+   padding-left:  20px;
+   padding-bottom: 2px;
+   padding-top: 10px;
+  
+}
+
+.body{
+
+    width: 350px ;
+    padding: 0px 20px;
+    color: rgb(165, 161, 161);
+    font-family: cambria;
+    padding-top: 0px;
+
+}
