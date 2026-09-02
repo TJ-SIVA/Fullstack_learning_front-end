@@ -1,0 +1,103 @@
+.menu{
+    margin: 10px 10px;
+    display: grid;
+    grid-template-columns: 1 fr;
+    border:none;
+    background-color: white;
+    box-shadow: 0px 0px 5px rgba(198, 192, 192, 0.5);
+    padding: 0px 10px ;
+    border-radius: 5px;
+}
+
+.flex_box{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.count-btn{ 
+    color: white;
+    background-color: rgb(50, 50, 220);
+    padding: 5px 8px;
+    border: none;
+    border-radius: 20px;
+    font-weight: 600;
+
+
+}
+
+p{
+    flex:1;
+    margin-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.flex-list{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.profile-photo-container{
+
+    height: 50px;
+    width: 50px;
+}
+
+.profile-image{
+
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.profile-details{
+
+    flex:1;
+    margin-left: 10px;
+
+}
+
+.user-name{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+
+.about{
+
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(147, 146, 146);
+    margin-bottom: 0px;
+    font-size: 16px;
+}
+
+.popular{
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(147, 146, 146);
+    margin-bottom: 0px;
+    font-size: 13px;
+}
+
+.follow-btn{
+
+    color: white;
+    background-color: rgb(70, 70, 238);
+    opacity: 0.90;
+    border:none;
+    border-radius: 4px;
+    padding: 10px 16px;
+    font-weight: 600;
+    font-size: 15px;
+}
