@@ -12,7 +12,7 @@ p{
     bottom: 0;
     left: 0;
     width: 80px;
-    background-color: rgb(60, 55, 55);
+    background-color: rgb(128, 125, 125);
    align-items: center;
 
 }
@@ -23,7 +23,7 @@ p{
     height: 50px;
     object-fit: cover;
     object-position: center;
-    border: 2px solid #a82020;
+    border: 2px solid #29a820;
     box-shadow: 0 2px 6px rgba(0,0,0,0.2);
     border-radius: 50%;
 
