@@ -1,0 +1,93 @@
+
+P{
+    font-family: roboto,arial;
+    font-weight: 600;
+}
+
+body{
+
+    height: 3000px;
+}
+.header{
+
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: rgb(250, 247, 247);
+    align-items: center;
+   
+}
+
+.image-container{
+
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+
+.profile-picture{
+
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    border: 2px solid #ccc;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+.user-name-container{
+
+    flex: 1;
+    margin-left: 10px;
+}
+
+.add-btn{
+
+    font-size: 12px;
+    padding: 10px 16px;
+    color: white;
+    background-color: rgb(61, 61, 237);
+    border:none;
+    font-weight: 600;
+    margin-right: 10px;
+    border-radius: 8px;
+    opacity: 0.90;
+
+}
+
+.Message-btn{
+
+    font-size: 14px;
+    padding: 10px 16px;
+    color: rgb(9, 9, 9);
+    background-color: rgb(201, 201, 202);
+    border:none;
+    font-weight: 600;
+    margin-right: 10px;
+    border-radius: 8px;
+    opacity: 0.90;
+    
+
+}
+
+
+.center-btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+  font-size: 12px;
+  padding: 10px 16px;
+  color: white;
+  background-color: rgb(241, 1, 1);
+  border: none;
+  font-weight: 600;
+  border-radius: 8px;
+  opacity: 0.90;
+}
+
