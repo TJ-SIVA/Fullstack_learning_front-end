@@ -1,0 +1,61 @@
+.outer-container{
+
+    background-color: rgb(95, 94, 94);
+    top: 10px;
+    left: 10px;
+    width: 400px;
+    height: 400px;
+
+}
+
+.image-container{
+
+    color: white;
+   position: relative;
+    width: 400px;
+    height: 400px;
+
+}
+
+.product-image{
+
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+
+
+}
+
+.offer-text{
+
+    color:black;
+    font: 15px;
+    background-color: white;
+    position:absolute;
+    top: 5px;
+    right: 3px;
+    padding: 2px 4px;
+}
+
+.button-container{
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    background-color: rgba(253, 254, 254,0.6);
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.add-btn{
+
+background-color: aliceblue;
+border-style: solid;
+border-color: rgb(14, 13, 12);
+border-width: 1px;
+padding: 5px 5px;
+}

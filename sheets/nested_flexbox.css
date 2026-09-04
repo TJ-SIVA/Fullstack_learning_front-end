@@ -1,0 +1,30 @@
+.box-container {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: grey;
+    width: 200px;      
+    height: 150px;     
+}
+
+.time-stamp{
+
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    color: white;
+    background-color: black;
+    opacity: 0.70;
+    padding: 2px 2px;
+}
+
+.X-symbol{
+
+    position: absolute;
+    color: white;
+    top: -8px;
+    left: -8px;
+    background-color: black;
+    padding: 5px 10px;
+    border-radius: 50%;
+}
